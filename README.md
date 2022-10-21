@@ -7,7 +7,7 @@ These projects are meant to show recruiter the skills and knowledge I have and t
     2. Data Cleaning Project ( )
     3. Data Visualization Project ( )
     
-### In these project I use 
+### In these projects I use 
 
   1. SSIS Package (Visual Studio) => to create ETL process, Import Data (flat file, Excel) into Database(SSMS)
   2. MS SQL Server (Azure Data Studio) => to clean and explore data 
