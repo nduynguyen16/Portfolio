@@ -3,7 +3,7 @@ These projects are meant to show recruiter the skills and knowledge I have and t
 
 ### This portfolio is made up 3 projects
 
-    1. Data Exploration Project ( Covid Deaths)
+    1. Data Exploration Project ( Covid Deaths Dataset)
     2. Data Cleaning Project ( )
     3. Data Visualization Project ( )
     
