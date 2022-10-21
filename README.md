@@ -3,14 +3,16 @@ These projects are meant to show recruiter the skills and knowledge I have and t
 
 ### This portfolio is made up 3 projects
 
-    1. Data Exploration Project ( Covid Deaths)
+    1. Data Exploration Project ( Covid Deaths Dataset)
     2. Data Cleaning Project ( )
     3. Data Visualization Project ( )
     
-### In these project I use 
+### In these projects I use 
 
   1. SSIS Package (Visual Studio) => to create ETL process, Import Data (flat file, Excel) into Database(SSMS)
-  2. MS SQL Server => to clean and explore data 
+  2. MS SQL Server (Azure Data Studio) => to clean and explore data 
   3. Excel, googleSheet => use pivot table to aggerate metrics,
-  4. PowerBI, Tableau=> to create Visualizations 
+  4. PowerBI, Tableau=> to create Visualizations
+  5. Azure Data studio => to create Documentation (Notebooks) for every SQL code chunk
+  
   
