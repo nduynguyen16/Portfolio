@@ -1,3 +1,5 @@
+--Using Dataset about World Covid from https://ourworldindata.org/covid-deaths to Explore Covid Data in Vietnam And Southeast Asia
+
 
 --Select all new COVID Data 
 SELECT * 
