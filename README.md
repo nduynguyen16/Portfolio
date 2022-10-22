@@ -11,7 +11,7 @@ These projects are meant to show recruiter the skills and knowledge I have and t
     
 ### In these projects I use 
 
-  1. SSIS Package (Visual Studio) => to create ETL process, Import Data (flat file, Excel) into Database(SSMS)
+  1. SSIS Package (Visual Studio) => to create ETL process, Import Data (flat file, Excel) into Database(MS SQL Sever)
   2. MS SQL Server (Azure Data Studio) => to clean and explore data 
   3. Excel, googleSheet => use pivot table to aggerate metrics,
   4. PowerBI, Tableau=> to create Visualizations
