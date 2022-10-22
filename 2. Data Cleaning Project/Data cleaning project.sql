@@ -1,3 +1,5 @@
+--Using Table of size standards dataset from Table of size standards (sba.gov) to cleaning data
+
 
 --first glance at Sba_industry_standard Dataset
 SELECT * 
