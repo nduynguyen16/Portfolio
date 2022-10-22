@@ -4,7 +4,7 @@ These projects are meant to show recruiter the skills and knowledge I have and t
 ### This portfolio is made up 3 projects
 
     1. Data Exploration Project ( Covid Deaths Dataset)
-    2. Data Cleaning Project ( )
+    2. Data Cleaning Project ( SBA's table of size standars)
     3. Data Visualization Project ( )
     4. Data modeling Project
    
