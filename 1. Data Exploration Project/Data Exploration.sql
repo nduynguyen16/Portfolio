@@ -1,13 +1,14 @@
---Using Dataset about World Covid from https://ourworldindata.org/covid-deaths to Explore Covid Data in Vietnam And Southeast Asia
+--Using Dataset about World Covid from https://ourworldindata.org/covid-deaths to Explore Covid Data in Vietnam And Southeast Asia Area
 
 
---Select all new COVID Data 
+--Select all new COVID Data
 SELECT * 
 FROM CovidData
 ORDER BY date DESC
 
-								---VIETNAM---
---Select all Covid Data in Vietnam that we going to be using in Vietnam
+
+								---VIETNAM AREA---
+--Select all Covid Data in Vietnam that we going to be using
 SELECT 
 	Location, 
 	date, 
@@ -18,9 +19,10 @@ SELECT
 	population
 FROM CovidData
 WHERE Location = 'Vietnam'
-							
---Looking at  Total cases and Total deaths in Vietnam 
--- Show how many percentage of total cases are death   
+
+
+--Looking at The total cases and Total Deaths in Vietnam
+--Show how many percent of total cases are death in Vietnam  
 SELECT 
 	Location, 
 	date, 
@@ -32,8 +34,9 @@ WHERE Location = 'Vietnam'
 ORDER BY Deaths_percentage DESC
 
 
+
 --Looking at total cases and total population in Vietnam
---show how many percentage of total population got covid 
+--Show how many percent of total population got covid
 SELECT 
 	Location, 
 	date, 
@@ -44,7 +47,7 @@ FROM CovidData
 WHERE Location = 'Vietnam'
 ORDER BY Cases_percentage DESC
 
---looking at vaccination status in Vietnam
+--Looking at Vaccination Status in Vietnam
 SELECT
 	Location,
 	Year(date) AS Year,
@@ -63,7 +66,8 @@ ORDER BY 5 DESC
 
 
 									--- SOUTHEAST ASIA ---
---Looking at countries with highest Infection Rate Compared to Population in Southeast Asia
+
+--Looking at countries with the highest infection rate compared to the population per country in Southeast Asia area
 SELECT 
 	Location, 
 	population,  
@@ -79,7 +83,9 @@ WHERE location IN(  'Thailand','Vietnam',
 GROUP BY Location, population
 ORDER BY 4 DESC
 
---Showing countries with Highest Deaths Rate per per Population in Southeast Asia
+
+
+--Showing Countries with the highest deaths rate per population in Southeast Asia area
 SELECT 
 	Location, 
 	population,  
@@ -95,7 +101,7 @@ WHERE location IN(  'Thailand','Vietnam',
 GROUP BY Location, population
 ORDER BY 4 DESC
 
---looking at vaccination status in Southeast Asia
+--Looking at Vaccination Status in Southeast Asia area
 SELECT
 	Location,
 	Year(date) AS Year,
