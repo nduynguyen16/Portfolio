@@ -5,7 +5,7 @@ These projects are meant to show recruiter the skills and knowledge I have and t
 
     1. Data Exploration Project ( Covid Deaths Dataset)
     2. Data Cleaning Project ( SBA's table of size standars Dataset)
-    3. Data Visualization Project ( )
+    3. Data Visualization Project ( The world Bank dataset)
     4. Data modeling Project
    
     
