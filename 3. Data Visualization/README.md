@@ -9,6 +9,15 @@
 * Cleaning and Preparing data with Excel 
 * PowerBI to create Visualization Dashboard
 
+
+
 ### The screenshot of Dashboard
 
-![the screenshot of Dashboard](D:\My Project\Portfolio\3. Data Visualization\Image files\Screenshot_DB.png)
+![the screenshot of Dashboard](https://github.com/nduynguyen16/Portfolio/blob/main/3.%20Data%20Visualization/Image%20files/Screenshot_DB.png)
+
+### The screenshot of Entity Relationship Diagram (ERD)
+
+![the screenshot of ERD](https://github.com/nduynguyen16/Portfolio/blob/main/3.%20Data%20Visualization/Image%20files/Screenshot_ERD.png)
+
+### The screenshot of Dashboard Mobile Version
+![the screenshot of MB](https://github.com/nduynguyen16/Portfolio/blob/main/3.%20Data%20Visualization/Image%20files/Screenshot_DB_Mobile.png)
