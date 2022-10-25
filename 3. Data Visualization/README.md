@@ -10,3 +10,5 @@
 * PowerBI to create Visualization Dashboard
 
 ### The screenshot of Dashboard
+
+![the screenshot of Dashboard](D:\My Project\Portfolio\3. Data Visualization\Image files\Screenshot_DB.png)
