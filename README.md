@@ -1,7 +1,7 @@
 # Data Analysis Portfolio
 These projects are meant to show recruiter the skills and knowledge I have and to help them see if I really fit their requirements for a data analyst position.
 
-### This portfolio is made up 3 projects
+### This portfolio is consist of 3 projects
 
     1. Data Exploration Project ( Covid Deaths Dataset)
     2. Data Cleaning Project ( SBA's table of size standard Dataset)
