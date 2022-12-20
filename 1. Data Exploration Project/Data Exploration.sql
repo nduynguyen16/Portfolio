@@ -18,7 +18,7 @@ SELECT
 	new_deaths, 
 	population
 FROM CovidData
-WHERE Location = 'Vietnam'
+WHERE Location = 'VietnamA'
 
 
 --Looking at The total cases and Total Deaths in Vietnam
